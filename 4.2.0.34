@@ -1,0 +1,7 @@
+Collecting opencv-contrib-python
+  Downloading opencv_contrib_python-4.13.0.92-cp37-abi3-win_amd64.whl.metadata (20 kB)
+Requirement already satisfied: numpy>=2 in .\venv\Lib\site-packages (from opencv-contrib-python) (2.4.2)
+Downloading opencv_contrib_python-4.13.0.92-cp37-abi3-win_amd64.whl (46.5 MB)
+   ---------------------------------------- 46.5/46.5 MB 8.5 MB/s  0:00:05
+Installing collected packages: opencv-contrib-python
+Successfully installed opencv-contrib-python-4.13.0.92

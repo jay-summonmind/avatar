@@ -1,0 +1,1 @@
+C:/Users/abhishek/Downloads/Wav2Lip-master/checkpoints/wav2lip_gan.pth
